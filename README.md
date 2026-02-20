@@ -5,8 +5,13 @@ This document provides a comprehensive guide to installing, setting up, and usin
 ## Table of Contents
 
 * [Chapter 1: Introduction to Onxy](#chapter-1-introduction-to-onxy)
-* [Chapter 2: Item and Inventory Management](#chapter-2-item-and-inventory-management)
-* [Chapter 3: Vendor System](#chapter-3-vendor-management)
+* [Chapter 2: Principle Of Accounting](#Principle Of Accounting)
+* [Chapter 3: ](#chapter-3-vendor-management)
+
+
+* [Chapter 4: Introduction to Onxy](#chapter-4-introduction-to-onxy)
+* [Chapter 5: Item and Inventory Management](#chapter-5-item-and-inventory-management)
+* [Chapter 6: Vendor System](#chapter-6-vendor-management)
 
 ---
 
