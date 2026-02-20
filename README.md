@@ -1,5 +1,4 @@
-# Onxy Installation and Setup Documentation
-
+# Introduction To Onxy ERP
 This document provides a comprehensive guide to installing, setting up, and using the Onxy inventory management system.
 
 ## Table of Contents
