@@ -5,7 +5,7 @@ This document provides a comprehensive guide to installing, setting up, and usin
 
 * [Chapter 1: Introduction to Onxy](#chapter-1-introduction-to-onxy)
 * [Chapter 2: Principle Of Accounting](#Principle Of Accounting)
-* [Chapter 3: ](#chapter-3-vendor-management)
+* [Chapter 3: System Setup](#chapter-3-vendor-management)
 
 
 * [Chapter 4: Introduction to Onxy](#chapter-4-introduction-to-onxy)
